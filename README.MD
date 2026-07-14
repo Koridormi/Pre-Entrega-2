@@ -1,4 +1,4 @@
-# PreEntrega JavaSript 2
+# PreEntrega JavaScript 2
 
 ## Ubicacion del codigo JS
 
